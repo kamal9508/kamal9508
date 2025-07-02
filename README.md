@@ -1,6 +1,7 @@
 <br clear="both" />
 
 <div align="center">
+  <!-- NOTE: Local image paths will NOT display on GitHub. Upload this image to GitHub or another hosting service and replace the src below. -->
   <img src="M:\Git\github-header-image.png" alt="Kamalesh GitHub Header" height="300" />
 </div>
 
