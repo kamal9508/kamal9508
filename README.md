@@ -1,7 +1,7 @@
 <br clear="both" />
 
 <div align="center">
-  <!-- NOTE: Local image paths will NOT display on GitHub. Upload this image to GitHub or another hosting service and replace the src below. -->
+  <!-- NOTE: Replace this with your hosted image URL if needed -->
   <img src="./github-header-image (1).png" alt="Kamalesh GitHub Header" height="300" />
 </div>
 
@@ -9,21 +9,28 @@
 
 <h2 align="center">Hi 👋! I'm Kamalesh D — Computer Science Undergraduate at SRM Institute of Science and Technology</h2>
 
-###
-
 <p align="center">
-  I am an enthusiastic and driven B.Tech Computer Science student with a deep interest in software development and solving complex problems through technology. I am particularly passionate about learning and mastering <strong>Data Structures and Algorithms (DSA)</strong>, and actively work on improving my problem-solving skills through consistent practice.
+  I'm an enthusiastic B.Tech CSE student passionate about <strong>software development</strong>, <strong>problem-solving</strong>, and <strong>system design</strong>.  
+  I have a strong interest in mastering <strong>Data Structures and Algorithms (DSA)</strong> and building scalable, user-centric applications using modern web technologies.
   <br><br>
-  My technical focus lies in <strong>full-stack web development</strong>, backend API design, and secure system architectures. I enjoy building efficient, scalable, and user-friendly applications using modern technologies like <strong>React.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.
+  My core skills lie in <strong>full-stack web development</strong>, backend API architecture, and secure system implementation. I actively work with <strong>React.js</strong>, <strong>Django</strong>, <strong>MySQL</strong>, and <strong>Node.js</strong> to create efficient and robust applications.
   <br><br>
-  I value collaboration, lifelong learning, and attention to detail. Professionally, I aspire to contribute to impactful projects that combine clean code, strong logic, and a user-first mindset. Outside of coding, I enjoy exploring UI/UX trends, staying active on tech communities, and sharing my progress on social media.
+  I value clean code, collaboration, and continuous learning. I aim to contribute to impactful products that are both technically solid and user-friendly.
 </p>
 
-###
+---
 
-<h2 align="center">Languages & Technologies I Use</h2>
+<h3 align="center">🌐 Check out my Portfolio</h3>
 
-###
+<div align="center">
+  <a href="https://portfolio-kd9508.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-009688?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">💻 Languages & Technologies I Use</h2>
 
 <br clear="both" />
 
@@ -47,11 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
-###
+---
 
-<h2 align="center">Connect with Me</h2>
-
-###
+<h2 align="center">📬 Connect with Me</h2>
 
 <br clear="both" />
 
